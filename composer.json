@@ -1,0 +1,21 @@
+{
+  "name": "xyb2b/client",
+  "description": "xingyunhuocang api client",
+  "require": {
+    "php": ">=7.2.5",
+    "guzzlehttp/guzzle": "^7.3"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "wangsen",
+      "email": "582033258@qq.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "Xyb2b\\Util\\": "src"
+    }
+  }
+}
