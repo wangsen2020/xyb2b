@@ -12,7 +12,6 @@
       "email": "582033258@qq.com"
     }
   ],
-  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "Xyb2b\\Util\\": "src"
