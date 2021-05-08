@@ -2,7 +2,7 @@
   "name": "xyb2b/client",
   "description": "xingyunhuocang api client",
   "require": {
-    "php": ">=7.2",
+    "php": ">=5.5",
     "guzzlehttp/guzzle": "^6.3"
   },
   "license": "MIT",
