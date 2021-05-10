@@ -13,3 +13,6 @@ $response = $xunYun->post("get_goods_list", [
         "page_index" => 1
     ]
 );
+````
+- composer ^1.0版本安装时会一直报找不到包，所以建议composer ^2.0版本来安装
+- composer 回退1.0脚本：composer selfupdate --1
